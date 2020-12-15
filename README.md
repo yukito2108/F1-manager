@@ -13,6 +13,8 @@ NOTE: contain both HA project and F1 project
       run Tomcat-server
     
       open http://localhost:8080/F1-demo/
+      
+      username: adminnhansu and password: 123456
     
 * Function
     
